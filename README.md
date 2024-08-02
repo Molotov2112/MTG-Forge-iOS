@@ -1,4 +1,4 @@
-# 9898-MTG-Forge
+# MTG-Forge-iOS
 
 [Official repo](https://github.com/Card-Forge/forge.git).
 
